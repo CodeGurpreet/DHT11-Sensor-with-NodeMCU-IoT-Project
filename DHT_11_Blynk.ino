@@ -10,9 +10,9 @@
 #define DHTPIN 4
 #define DHTTYPE DHT11
 
-char auth[] = "K1rutLiosrO3K1L55I-8bDHym62ThRnD";  // Your Blynk Auth Token
-char ssid[] = "Lim";  // Your WiFi SSID
-char pass[] = "@8232838";  // Your WiFi Password
+char auth[] = "TOKEN";  // Your Blynk Auth Token
+char ssid[] = "WIFI ID";  // Your WiFi SSID
+char pass[] = "WIFI PASSWORD";  // Your WiFi Password
 
 DHT dht(DHTPIN, DHTTYPE);
 

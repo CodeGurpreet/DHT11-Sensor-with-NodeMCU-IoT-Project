@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6reclFy-c"
-#define BLYNK_TEMPLATE_NAME "DHT 11"
-#define BLYNK_AUTH_TOKEN "K1rutLiosrO3K1L55I-8bDHym62ThRnD"
+#define BLYNK_TEMPLATE_ID "ID"
+#define BLYNK_TEMPLATE_NAME "NAME"
+#define BLYNK_AUTH_TOKEN "TOKEN "
 #include <DHT.h>
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
